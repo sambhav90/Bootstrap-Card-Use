@@ -1,0 +1,20 @@
+.App{
+  background-color: aqua;
+  height: 100vh;
+  width: 100%;
+  
+  
+}
+
+.App2{
+  position: relative;
+  top: 100px;
+  left: 100px;
+  
+ 
+  background-color: blueviolet;
+  height: 300px;
+  width: 200px;
+  
+
+}
